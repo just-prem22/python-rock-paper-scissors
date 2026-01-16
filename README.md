@@ -34,26 +34,7 @@ Enter your choice when prompted:
 
 See what the computer chooses and find out who wins!
 
-## Example Gameplay 🎲
 
-press 1 for rock 2 for paper and 3 for scissor....
-2
-You choose paper
-
-    _______
----'   ____)____
-          ______)
-          _______)
-         _______)
----.__________)
-
-Computer choose rock
-
-    _______
----'   ____ )
-      (_____)
-      (_____)
-      (____)
 ---.__(___)
 
 YOU WON
