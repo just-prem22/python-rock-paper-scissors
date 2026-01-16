@@ -35,8 +35,3 @@ Enter your choice when prompted:
 See what the computer chooses and find out who wins!
 
 
----.__(___)
-
-YOU WON
-
-
