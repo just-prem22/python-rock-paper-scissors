@@ -88,6 +88,13 @@ You choose rock
 ---.__(___)
 
 Computer choose scissor
+    ______
+---'  ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+
     
 YOU WON
 
